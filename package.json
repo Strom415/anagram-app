@@ -1,0 +1,19 @@
+{
+  "name": "anagram-ap",
+  "version": "1.0.0",
+  "description": "A browser based word game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strom415/anagram-app.git"
+  },
+  "author": "Matthew Strom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strom415/anagram-app/issues"
+  },
+  "homepage": "https://github.com/Strom415/anagram-app#readme"
+}
